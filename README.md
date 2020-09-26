@@ -1,1 +1,1 @@
-[play](https://ikzsl.github.io/multiplayerSnake/ 'multiplayerSnake')
+[play](http://195.133.201.82/ 'multiplayerSnake')
