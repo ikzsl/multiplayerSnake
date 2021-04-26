@@ -3,6 +3,7 @@ const SNAKE_COLOR = '#c2c2c2';
 const FOOD_COLOR = '#e66916';
 
 const socket = io('http://194.87.144.199:443');
+console.log("------v1-----")
 
 socket.on('init', handleInit);
 socket.on('gameState', handleGameState);
