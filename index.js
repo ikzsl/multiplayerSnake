@@ -2,7 +2,7 @@ const BG_COLOR = '#231f20';
 const SNAKE_COLOR = '#c2c2c2';
 const FOOD_COLOR = '#e66916';
 
-const socket = io('https://213.188.197.221:443');
+const socket = io('http://213.188.197.221:443');
 console.log("------v3-----")
 
 socket.on('init', handleInit);
