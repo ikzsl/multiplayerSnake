@@ -1,4 +1,4 @@
-[playThisFantasticGame](https://ikzsl.github.io/multiplayerSnake/ 'multiplayerSnake')
+[playThisFantasticGame](http://194.87.144.199/ 'multiplayerSnake')
 
 
 ## Многопользовательская "змейка" на вебсокетах
